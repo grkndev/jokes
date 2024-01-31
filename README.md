@@ -1,5 +1,5 @@
 # Jokes with NextJS
-### for @ozlemkayasaroglu
+### for [@ozlemkayasaroglu](https://github.com/ozlemkayasaroglu)
 
 inceleyin [Api](/app/api/jokes/route.js)
 
